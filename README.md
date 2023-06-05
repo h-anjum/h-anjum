@@ -32,20 +32,10 @@
 
 ---
 
-<!-- ## 🔥 My Stats :
-
-<p align="center">
-<a href="https://github.com/h-anjum">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=h-anjum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h-anjum&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
---- -->
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-<a href="mailto:hussnainanjum06a@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
+<a href="mailto:hussnainanjum06@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://twitter.com/Muhamma59427304"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/hussnain-anjum-179204206/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 
